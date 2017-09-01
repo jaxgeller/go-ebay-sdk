@@ -4,5 +4,5 @@ Unfinished at the moment, but all the trading types have been auto generated and
 
 
 ### Auto Generation
-+ Requires pythono 3.6+
++ Requires python 3.6+
 + Requests, lxml
